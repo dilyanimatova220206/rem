@@ -1,7 +1,7 @@
-const input = document.querySelector('input')
-const addBtn = document.querySelector('.add-btn')
-const removeBtn = document.querySelector('.remove-btn')
-const ul = document.querySelector('ul')
+// const input = document.querySelector('input')
+// const addBtn = document.querySelector('.add-btn')
+// const removeBtn = document.querySelector('.remove-btn')
+// const ul = document.querySelector('ul')
 //
 // localStorage.setItem('test' , JSON.stringify([{title : 'go to school' , id : 1} ,
 //     {title: 'go to office' , id : 2}]))
